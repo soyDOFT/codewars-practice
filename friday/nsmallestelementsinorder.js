@@ -1,3 +1,5 @@
+//This one was also pretty difficult, especially since there's a lot of layers of thinking involved and sooo many different arrays to work with
+
 //Your task is to write a function that does just what the title suggests 
 //(so, fair warning, be aware that you are not getting out of it just throwing a lame bas sorting method there) 
 //with a list of integers and the expected number n of smallest elements to return.

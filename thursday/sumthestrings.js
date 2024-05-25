@@ -1,3 +1,7 @@
+//This one was a fun exercise on type casting and conversions
+
+//Create a function that takes 2 integers in form of a string as an input, and outputs the sum (also as a string):
+
 function sumStr(a, b) {
     //if a is an empty strings then change its value to 0, otherwise do nothing
     a === "" ? a = 0 : 0;
