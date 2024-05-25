@@ -1,3 +1,6 @@
+//This one was the most difficult to solve at level 4 kyu, but thankfully I had previous knowledge of matices and determinants that helped me.
+// It took me all day to solve, but now am more comftorable with 2D arrays, recursion, slice(), and splice()
+
 // Write a function that accepts a square matrix (N x N 2D array) and returns the determinant of the matrix.
 function determinant(m) {
     // return the determinant of the matrix passed in

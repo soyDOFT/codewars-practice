@@ -1,3 +1,5 @@
+//I was very satisfied after this one, especially since it was just two lines. I also learned more about .sort()
+
 //Given an array of integers your solution should find the smallest integer.
 //For example:
 //Given [34, 15, 88, 2] your solution will return 2

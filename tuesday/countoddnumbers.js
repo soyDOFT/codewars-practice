@@ -1,3 +1,5 @@
+//I liked my solution for this one, I had a little creative liberty with this one.
+
 //Given a number n, return the number of positive odd numbers below n
 
 function oddCount(n){

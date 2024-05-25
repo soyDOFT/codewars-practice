@@ -1,3 +1,5 @@
+//This one was a little challenging but completing it gave me huge relief, although I hate using nested for loops
+
 //You are given a binary string (a string consisting of only '1' and '0'). The only operation that can be performed on it is a Flip operation.
 //It flips any binary character ( '0' to '1' and vice versa) and all characters to the right of it.
 //For example, applying the Flip operation to the 4th character of string "1001010" produces the "1000101" string, since all characters from the 4th to the 7th are flipped.

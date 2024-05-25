@@ -1,3 +1,5 @@
+//Not too difficult, but made me more familar with operators.
+
 //function that finds all powers of 2 upto a number n
 function powersOfTwo(n) {
     //initialize empty array to store powers of 2
